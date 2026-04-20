@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="yuanshen.vcxproj" Id="7a90ff81-7167-44af-ba99-9cf1fa590263" />
+</Solution>
